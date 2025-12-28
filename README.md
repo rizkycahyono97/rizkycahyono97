@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/view/hello-ryo-yamada-ryo-ryō-bocchi-the-rock-gif-6434648022602203937.gif" width="150"/>
+  <img src="https://tenor.com/view/osaragi-edit-gif-17269351018779314215" width="200"/>
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 <div align="center">
 
 ### 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=js,aws,linux,git,nodejs" />
+<img src="https://skillicons.dev/icons?i=laravel,go,nodejs,linux,wordpress" />
 
 ### 📊 GitHub Stats
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizkycahyono97&theme=tokyonight" width="70%"/>
