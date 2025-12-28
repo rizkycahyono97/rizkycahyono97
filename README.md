@@ -13,11 +13,11 @@
 <img src="https://skillicons.dev/icons?i=laravel,go,nodejs,linux,wordpress,react" />
 
 ### 📊 GitHub Stats
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizkycahyono97&theme=tokyonight" width="100%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizkycahyono97&theme=tokyonight" width="70%"/>
 
 <p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rizkycahyono97&theme=tokyonight" width="32%"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rizkycahyono97&theme=tokyonight" width="32%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rizkycahyono97&theme=tokyonight" width="30%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rizkycahyono97&theme=tokyonight" width="30%"/>
 </p>
 
 
