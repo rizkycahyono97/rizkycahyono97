@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/view/osaragi-edit-gif-17269351018779314215.gif" width="200"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3dqcjJ1a2hic2E1NzNqMjcxc3E3aG4zaHg2b2lucWk5amtiMzFvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tyRMLfkrIBInAe2jwn/giphy.gif" width="150"/>
 </p>
 
 <p align="center">
