@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <strong>Hi, I'm Broman 👋</strong><br>
-  Developer yang suka ngulik hal random & ngepush project iseng ke GitHub.
+  <strong>Hi, I'm Rizky Cahyono 👋</strong><br>
+  Pagi ngopi + coding, siang juga ngopi coding, malem coding tok
 </p>
 
 <div align="center">
@@ -13,11 +13,11 @@
 <img src="https://skillicons.dev/icons?i=js,aws,linux,git,nodejs" />
 
 ### 📊 GitHub Stats
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=broman0x&theme=tokyonight" width="70%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizkycahyono97&theme=tokyonight" width="70%"/>
 
 <p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=broman0x&theme=tokyonight" width="32%"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=broman0x&theme=tokyonight" width="32%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rizkycahyono97&theme=tokyonight" width="32%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rizkycahyono97&theme=tokyonight" width="32%"/>
 </p>
 
 
