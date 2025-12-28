@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Hi, I'm Rizky Cahyono 👋</strong><br>
-  Pagi ngopi + coding, siang juga ngopi + coding, malem coding tok
+  Pagi ngopi + coding, siang juga ngopi + coding, malem coding doang biar cepat tidur
 </p>
 
 <div align="center">
