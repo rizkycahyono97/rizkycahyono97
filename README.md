@@ -10,7 +10,7 @@
 <div align="center">
 
 ### 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=laravel,go,nodejs,linux,wordpress,react" />
+<img src="https://skillicons.dev/icons?i=laravel,go,nodejs,linux,solidity,react" />
 
 ### 📊 GitHub Stats
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizkycahyono97&theme=tokyonight" width="70%"/>
